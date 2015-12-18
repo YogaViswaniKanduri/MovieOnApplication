@@ -1,0 +1,2 @@
+# MovieOnApplication
+MovieOn is a movie and video recommendation system which can suggest a set of movies with corresponding videos to users based on the user reviews on older movies and his genre preferences.  This system uses semantic web technologies to retrieve data, mines data to collect all the important information, such as, popularity, genre preferences etc and present recommendations to the user. 
